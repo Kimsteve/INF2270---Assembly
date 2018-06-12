@@ -1,0 +1,5 @@
+--*- coding: utf-8; -*--
+I’ve been trying the ways you recommended but i’ve not made any progress since then. I would really like to know how it is done.
+
+The results from my-ftoa is stored in %eax and i tried to copy it to  %ecx register but i get 0.000000. I tried to store in a local variable also. this didn’t work either.
+
